@@ -1,0 +1,74 @@
+.land{
+  font-size: 60px ;
+  text-align : center ;
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: "Lucida Console", "Courier New", monospace; */
+  color : #33211D ;
+  background-color: #F9D2BA ;
+  padding: 2% 25% 2% ;
+}
+
+.impt {
+   font-size: 23px ;
+}
+
+.unimpt {
+   font-size: 20px ;
+}
+.cute{
+  font-size: 21px ;
+  margin: 30px 40px ;
+  text-align : left ;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color : #33211D ;
+}
+
+.gnd {
+  border-top: 1px solid #5C5655;
+}
+
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color : #010B0A ;
+}
+
+th, td{
+  text-align : left ;
+  padding: 2px;
+  color: #515454 ;
+}
+
+.name {
+  color : #873D11 ;
+  font-size: 27px ;
+  font-style: Bold ;
+}
+
+.about {
+  font-size: 20px ;
+  margin: 20px 20px ;
+  font-family: 'Montserrat', sans-serif;
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 2px;
+  line-height: 24px ;
+
+}
+body{
+  background-color: #FAEAE0 ;
+}
+
+.a1 {
+  text-align : left ;
+  padding: 2px;
+  color: #515454 ;
+}
+
+.footer{
+       color : #33211D ;
+       font-size: 20px  ;
+       padding : 1% 15% ;
+       /* padding: 1% 20% 1% ; */
+       text-align: center;
+       background-color: #F9D2BA;
+}
