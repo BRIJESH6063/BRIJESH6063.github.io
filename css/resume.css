@@ -4,7 +4,7 @@
       font-family: 'Montserrat', sans-serif;
       /* font-family: "Lucida Console", "Courier New", monospace; */
       color : #33211D ;
-      background-color: #F9D2BA ;
+      background-color: #FCEED9 ;
       height: 8%;
       margin:0px;
       padding: 2% 25% 2% ;
@@ -178,7 +178,7 @@ th, td{
 
 }
 body{
-  background-color: #FAEAE0 ;
+  background-color: #EEF9F9 ;
 }
 
 .a1 {
@@ -193,7 +193,7 @@ body{
        font-size: 20px  ;
        padding : 1% 15% ;
        text-align: center;
-       background-color: #F9D2BA;
+       background-color: #FCEED9;
        /* width: 100% ; */
        margin: 0px ; height: 10% ;
        padding: 2% 25% 2% ;
