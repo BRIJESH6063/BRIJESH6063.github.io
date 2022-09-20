@@ -86,7 +86,7 @@
       padding: 1% 6% ;
       /* padding: 2% 25% 2% ; */
       position: absolute ;
-      top:1080px;
+      top:1090px;
       right:0px;
       bottom:0px;
       left:0px;
@@ -101,23 +101,60 @@
       padding: 1% 5% ;
       /* padding: 2% 25% 2% ; */
       position: absolute ;
-      top:1380px;
+      top:1400px;
       right:0px;
       bottom:0px;
       left:0px;
 }
 
 .gnd1 {
-      border-top: 1px solid #5C5655;
+      /* border-top: 1px solid #5C5655; */
+      width: 90% ;
       position: absolute ;
-      top:420px;
+      top:450px;
+      right:0px;
+      bottom:0px;
+      left:0px;
+      height:1px;border-width:0;color:gray;background-color:gray;
+}
+
+.gnd2 {
+      /* border-top: 1px solid #5C5655; */
+      width: 90% ;
+      position: absolute ;
+      top:895px;
+      right:0px;
+      bottom:0px;
+      left:0px;
+      height:1px;border-width:0;color:gray;background-color:gray;
+}
+
+.gnd3 {
+      /* border-top: 1px solid #5C5655; */
+      width: 90% ;
+      position: absolute ;
+      top:1115px;
+      right:0px;
+      bottom:0px;
+      left:0px;
+      height:1px;border-width:0;color:gray;background-color:gray;
+}
+
+.gnd4 {
+      /* border-top: 1px solid #5C5655; */
+      width: 90% ;
+      position: absolute ;
+      top:1430px;
+      right:0px;
+      bottom:0px;
+      left:0px;
+      height:1px;border-width:0;color:gray;background-color:gray;
 }
 
 h2 {
       font-family: "Lucida Console", "Courier New", monospace;
       color : #010B0A ;
 }
-
 th, td{
       text-align : left ;
       padding: 2px;
@@ -126,7 +163,7 @@ th, td{
 
 .name {
       color : #873D11 ;
-      font-size: 50px ;
+      font-size: 45px ;
       font-style: Bold ;
 }
 
