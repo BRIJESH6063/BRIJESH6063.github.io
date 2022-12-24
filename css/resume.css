@@ -3,7 +3,7 @@
       text-align : center ;
       font-family: 'Montserrat', sans-serif;
       /* font-family: "Lucida Console", "Courier New", monospace; */
-      color : #33211D ;
+      color : #0A0704 ;
       background-color: #FCEED9 ;
       height: 8%;
       margin:0px;
@@ -86,7 +86,7 @@
       padding: 1% 6% ;
       /* padding: 2% 25% 2% ; */
       position: absolute ;
-      top:1090px;
+      top:1220px;
       right:0px;
       bottom:0px;
       left:0px;
@@ -101,7 +101,7 @@
       padding: 1% 5% ;
       /* padding: 2% 25% 2% ; */
       position: absolute ;
-      top:1400px;
+      top:1560px;
       right:0px;
       bottom:0px;
       left:0px;
@@ -111,7 +111,7 @@
       /* border-top: 1px solid #5C5655; */
       width: 90% ;
       position: absolute ;
-      top:450px;
+      top:460px;
       right:0px;
       bottom:0px;
       left:0px;
@@ -133,7 +133,7 @@
       /* border-top: 1px solid #5C5655; */
       width: 90% ;
       position: absolute ;
-      top:1115px;
+      top:1220px;
       right:0px;
       bottom:0px;
       left:0px;
@@ -144,7 +144,7 @@
       /* border-top: 1px solid #5C5655; */
       width: 90% ;
       position: absolute ;
-      top:1430px;
+      top:1585px;
       right:0px;
       bottom:0px;
       left:0px;
